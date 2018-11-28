@@ -1,0 +1,16 @@
+{
+    "name": "andrewlunew/composer-example-package",
+    "description": "Example project",
+    "type": "library",
+    "require": {
+        "php": "7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Andrew Lunew",
+            "email": "pozzharskiy@ukr.net"
+        }
+    ],
+    "minimum-stability": "stable"
+}
